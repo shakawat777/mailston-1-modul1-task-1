@@ -98,7 +98,7 @@ body {
 
 .about-img .profile {
     position: relative;
-    right: 500px;
+    right: 400px;
     bottom: 400px;
     width: 400px;
     height: 500px;
@@ -113,4 +113,41 @@ body {
     right: 500px;
     bottom: 400px;*/
 }
+
 /* section-1 part end */
+
+
+
+.title {
+    color: #181818;
+    text-align: center;
+    font-size: 35px;
+    font-weight: 700;
+}
+
+.skill-container {
+    display: flex;
+    justify-content: space-between;
+    /* gap: 250px; */
+    margin: auto 230px;  
+}
+.skill {
+    margin: auto;
+    border-radius: 10px;
+    background: #FFF;
+}
+
+.skill-title {
+    color: #151414;
+    text-align: center;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.skill-description {
+    color: #737272;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 500;
+
+}
