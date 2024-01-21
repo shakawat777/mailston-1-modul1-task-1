@@ -117,7 +117,7 @@ body {
 /* section-1 part end */
 
 
-
+/* Start second part of main section */
 .title {
     color: #181818;
     text-align: center;
@@ -129,8 +129,9 @@ body {
     display: flex;
     justify-content: space-between;
     /* gap: 250px; */
-    margin: auto 230px;  
+    margin: auto 230px;
 }
+
 .skill {
     margin: auto;
     border-radius: 10px;
@@ -151,3 +152,51 @@ body {
     font-weight: 500;
 
 }
+
+/* End second part of main section */
+
+
+.second {
+    background-image: url(../images/gradient3.png);
+    background-repeat: no-repeat;
+    height: 300px;
+    margin: auto 150px;
+    border-radius: 8px;
+    display: flex;
+    gap: 5px;
+
+}
+
+.second-one {
+    
+    
+}
+
+ .text-description{
+    color: #FFF;
+    font-size: 40px;
+    font-weight: 700;
+    margin-left: 64px;
+    width: 459px;
+    
+}  
+
+.second-btn {
+    width: 160px;
+    height: 64px;
+    border: solid white;
+    border-radius: 5px;
+    background: #FFF;
+    margin-left: 64px;
+}
+
+.text {
+    color: #F15B22;
+    text-align: center;
+    font-size: 20px;
+    font-weight: 600;
+    
+
+}
+
+/* Start third part of main section */
