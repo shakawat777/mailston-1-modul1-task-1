@@ -159,15 +159,14 @@ body {
 
 /* Start third part of main section */
 .second {
-    background-image: url(../images/gradient3.png);
+    background-image: url(../images/watch.png);
     background-repeat: no-repeat;
     height: 300px;
-    margin: auto 150px;
+    margin: 150px 150px;
     /* margin-top: 130px; */
     border-radius: 8px;
     display: flex;
     gap: 5px;
-
 }
 
 .second-one {}
@@ -208,7 +207,7 @@ body {
 footer {
     display: flex;
     background: #151414;
-    height: 500px;
+    height: 400px;
     margin-top: 130px;
     padding: 130px 200px;
 
@@ -217,6 +216,7 @@ footer {
 
 .foot-column {
     width: 50%;
+    
 }
 
 .foot-title {
@@ -257,6 +257,9 @@ footer {
     background: #151414;
     border: 1px solid #FFF;
 
+}
+.last{
+    margin-left: 150px;
 }
 
 
