@@ -167,6 +167,7 @@ body {
     border-radius: 8px;
     display: flex;
     gap: 5px;
+    
 }
 
 .second-one {}
@@ -216,7 +217,7 @@ footer {
 
 .foot-column {
     width: 50%;
-    
+
 }
 
 .foot-title {
@@ -248,7 +249,8 @@ footer {
     font-size: 25px;
     font-weight: 600;
 }
-.address input[type="email"]{
+
+.address input[type="email"] {
     display: block;
     margin-bottom: 25px;
     padding: 18px 35px;
@@ -258,7 +260,8 @@ footer {
     border: 1px solid #FFF;
 
 }
-.last{
+
+.last {
     margin-left: 150px;
 }
 
